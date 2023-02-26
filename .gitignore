@@ -1,0 +1,2 @@
+# Ignorar los archivos de Node Package Manager (NPM)
+node_modules/
